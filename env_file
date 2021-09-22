@@ -1,0 +1,2 @@
+JWT_SECRET='jwtsecret'
+LOG_LEVEL=DEBUG
